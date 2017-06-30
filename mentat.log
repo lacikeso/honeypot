@@ -1,0 +1,253 @@
+{
+	"Format":	"IDEA0",
+	"ID":	"f1f86e01-d529-4594-b9a0-490000000201",
+	"DetectTime":	"2017-06-23T19:40:47",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"f1f86e01-d529-4594-b9a0-490000000401",
+	"DetectTime":	"2017-06-23T19:40:47",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"f1f86e01-d529-4594-b9a0-490000000603",
+	"DetectTime":	"2017-06-23T19:40:47",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"0dc063f1-d52a-4594-90fa-f60000000003",
+	"DetectTime":	"2017-06-23T19:40:48",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"0dc063f1-d52a-4594-90fa-f60000000203",
+	"DetectTime":	"2017-06-23T19:40:48",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"0dc063f1-d52a-4594-90fa-f60000000403",
+	"DetectTime":	"2017-06-23T19:40:48",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"0dc063f1-d52a-4594-90fa-f60000000603",
+	"DetectTime":	"2017-06-23T19:40:49",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"INVITE",
+	"Ref":	["sip:3334@195.113.113.153:5060", "sip:192.168.1.40:9"],
+	"Source":	{
+		"IP4":	"192.168.1.40",
+		"Proto":	["udp", "sip"],
+		"Port":	"9"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"bdcdb6fc-1cec-4b67-8630-77e892af164d ",
+	"DetectTime":	"2017-06-24T15:17:16",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:2222@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152 ",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"57e32ea100452b9719310a6c19a7f864@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T15:30:15",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"2f94a6e330ee7f6e468ef532680516ef@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T16:05:09",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"5d399d35288078b04102e56c4d76e9c9@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T16:27:09",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"51dbfadf536cc7b47a7fe4e03224fe85@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T17:29:41",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"592c473275989f0941fca8a759d17e65@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T18:33:03",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}{
+	"Format":	"IDEA0",
+	"ID":	"6b53de0f4b9c8e660b93fca5783a0604@195.113.113.152:5060 ",
+	"DetectTime":	"2017-06-24T22:59:13",
+	"Category":	"Availability.DoS",
+	"connCount":	"633",
+	"Description":	"SPIT ATTACK",
+	"Ref":	["<sip:3335@195.113.113.152:5060> ", "<sip:3334@195.113.113.153:5080;ob>"],
+	"Source":	{
+		"IP4":	"195.113.113.152",
+		"Proto":	["udp", "sip"],
+		"Port":	"5060"
+	},
+	"Target":	{
+		"IP4":	"195.113.113.153",
+		"Proto":	["udp", "sip"],
+		"Port":	"5080"
+	}
+}
